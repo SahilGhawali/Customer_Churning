@@ -1,4 +1,4 @@
-# Problem Statement : Default Prediction using SVM
+# Problem Statement : Customer Churning Using XGBoost
 
 
 ![webpage](/static/webpage.png?raw=True "Title") 
