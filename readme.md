@@ -24,4 +24,4 @@
 
 # Response:
 
-> Churning or not Churning
+> Churning or Not Churning
