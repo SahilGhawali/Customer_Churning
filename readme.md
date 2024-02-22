@@ -1,7 +1,6 @@
 # Problem Statement : Customer Churning Using XGBoost
 
-
-![webpage](/static/webpage.png?raw=True "Title") 
+## Pycharm
 
 # create conda enviroment
 > conda create --name Churn python=3.8
