@@ -16,6 +16,7 @@
 # Run Server
 > python app.py
 
+# Postman
 
 # request method: 
 > post 
