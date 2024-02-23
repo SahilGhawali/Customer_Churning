@@ -4,7 +4,7 @@ This analysis considers a wide range of customer attributes, including demograph
 to create a reliable model for identifying potential churners and implementing targeted retention strategies.
 
 
-Analytical Approach:
+# Analytical Approach:
 
 1.Data Preprocessing:
 
@@ -24,7 +24,7 @@ Interpret feature importance to better understand the factors that contribute to
 
 
 
-Deployment Steps:
+# Deployment Steps:
 
 1.Create a Flask Web Application:
 Initialize a new Flask project in PyCharm to create a web application.
