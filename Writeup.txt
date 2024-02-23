@@ -1,10 +1,13 @@
+Title: Telco Customer Churn Prediction: Unveiling Patterns and Strategies for Retention
+
+
 In the telecommunications industry, retaining customers is vital for sustainable business growth. 
 One effective solution is Telco Customer Churn Prediction, which uses advanced analytics and machine learning to anticipate and prevent customer attrition. 
 This analysis considers a wide range of customer attributes, including demographic information and service usage patterns, 
 to create a reliable model for identifying potential churners and implementing targeted retention strategies.
 
 
-# Analytical Approach:
+Analytical Approach:
 
 1.Data Preprocessing:
 
@@ -24,7 +27,7 @@ Interpret feature importance to better understand the factors that contribute to
 
 
 
-# Deployment Steps:
+Deployment Steps:
 
 1.Create a Flask Web Application:
 Initialize a new Flask project in PyCharm to create a web application.
