@@ -1,4 +1,4 @@
-# Problem Statement : Customer Churning Using XGBoost
+# Problem Statement : Customer Churning 
 
 # Pycharm
 
