@@ -15,7 +15,7 @@ Explore correlations and distributions within the dataset.
 Extract meaningful features and transform them for predictive modeling
 
 3.Model Development:
-Use machine learning algorithms like logistic regression, decision trees, or ensemble methods.
+Use machine learning algorithms like Logistic Regression, Decision Trees, KNN, SVM, and Ensemble methods.
 Train the model on historical data to predict customer churn.
 
 4.Evaluation and Interpretation:
